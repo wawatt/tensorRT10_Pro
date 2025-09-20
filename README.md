@@ -1,3 +1,12 @@
+## TensorRT10_Pro
+
+该仓库基于 [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8)，修改如下：
+ - [ ] 测试平台为 windows + cuda11.8 + trt10.13
+ - [ ] 使用更现代化的CMake管理依赖, 而非make
+ - [ ] 支持TensorRT10.x
+ - [ ] 去除onnx-tensorrt，去除自定义算子，以便于初学者使用
+
+同时感谢最初原作:kissing_heart: [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) 
 
 ## 简介
 
